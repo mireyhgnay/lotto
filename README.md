@@ -1,4 +1,4 @@
-# 📌 [Lotto]()
+# 📌 [Lotto](https://mireyhgnay.github.io/lotto/)
 
 ## ✏ 프로젝트 소개
 (Vanilla)JavaScript를 사용하여 랜덤으로 로또번호를 생성하는 기능을 구현해보았습니다.  
