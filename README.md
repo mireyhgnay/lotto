@@ -1,0 +1,2 @@
+# lotto
+Lotto Random Number
